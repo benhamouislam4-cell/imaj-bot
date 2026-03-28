@@ -1,3 +1,5 @@
 python-telegram-bot
-yt-dlp
-curl_cffi
+opencv-python-headless
+numpy
+Pillow
+moviepy
